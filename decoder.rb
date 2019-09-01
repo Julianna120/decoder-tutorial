@@ -4,6 +4,11 @@ KEY = {
 3 => 'C',
 4 => 'D',
 5 => 'E',
+14 => 'J',
+15 => 'K',
+16 => 'L',
+17 => 'M',
+18 => 'N'
 }
 
 # Define a method that takes an array of numbers to decode.
